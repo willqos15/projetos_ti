@@ -1,0 +1,95 @@
+.cabeca{background-color: rgb(39, 33, 77);border-radius: 20px;
+    text-align: center;
+    margin-bottom: 20px;
+   } 
+
+.BARRA {
+    background-color: rgb(0, 0, 0);
+    border-radius: 5px;
+    margin: auto;
+    padding: 5px 20px;
+}
+
+
+nav ul li {display: inline-block;}
+nav ul li a{color: white; padding: 10px;  text-decoration:none;}
+
+nav ul li a:hover {color: black; background: yellow; border-radius:20px}
+ 
+
+
+
+.BARRA {background-color: rgb(31, 24, 60);
+padding: 20px;}
+nav ul li {display: inline-block;}
+nav ul li a{color: white; padding: 10px; text-decoration:none;}
+nav ul li a:hover {color: black;
+background: yellow; border-radius:20px}
+
+
+
+
+
+
+body{
+    background: linear-gradient(to right,rgb(46, 77, 156),rgb(50, 129, 194), rgb(141, 187, 224), rgb(50, 129, 194), rgb(46, 77, 156));
+    font-family: "Comic Neue";
+    
+
+}
+
+.coment {text-align: left;
+        padding-left: 10%;}
+
+p {text-align: left;
+    padding-left: 10%;}
+
+.caixa {background-color: white; border-radius: 20px; padding: 10px 0px; margin: 10px 0px;}
+
+h1{text-align: center;
+    font-size: 60px;
+    padding: 10px 0px;
+    margin-bottom: 0px;
+    padding-left: 60px;
+    color: rgb(250, 250, 14);
+    text-shadow: 0px 0px 10px rgb(249, 249, 130);
+}
+
+ul{list-style-position: inside}
+
+.corpo{margin: auto; width: 600px;align-content: center; text-align: center;
+    padding: 20px;
+    background: linear-gradient(to right, #ffdd32, rgb(255, 218, 118),#ffdd32);
+    border-radius: 20px;}
+
+
+
+.filler{color: red;}
+
+
+h2{font-size: 40px;}
+h3{font-size: 25px;}
+
+img{border: 5px solid white;
+	    border-radius: 20px;}
+
+
+
+
+
+.esquerda{position: absolute; background-color: rgb(255, 255, 255);margin: 0px;border-radius: 20px;padding: 20px;}
+
+
+table{background-color: white;}
+
+
+
+
+@media only screen and (max-width: 1100px){
+    body, .a, .corpo, div{
+        width: 100%;
+        text-align: center;}
+    img{width:50%}
+    .corpo{margin-top: 1000px;}
+}
+
