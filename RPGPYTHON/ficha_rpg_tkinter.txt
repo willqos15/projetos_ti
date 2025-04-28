@@ -1,0 +1,481 @@
+FICHA RPG TKINTER
+Nome: asd
+Sexo: Masculino
+Raça: Elfo
+Classe: Druida
+ATRIBUTOS:
+Força: 19
+Inteligência: 15
+Carisma: 6
+Constituição: 16
+Sabedoria: 0
+Destreza: 5
+
+FICHA RPG TKINTER
+Nome: astah po
+Sexo: Masculino
+Raça: Elfo
+Classe: Ladino
+ATRIBUTOS:
+Força: 1
+Inteligência: 0
+Carisma: 8
+Constituição: 8
+Sabedoria: 8
+Destreza: 14
+
+FICHA RPG TKINTER
+Nome: astarix eloin
+Sexo: Masculino
+Raça: Elfo
+Classe: Ladino
+ATRIBUTOS:
+Força: 1
+Inteligência: 6
+Carisma: 2
+Constituição: 3
+Sabedoria: 6
+Destreza: 16
+
+FICHA RPG TKINTER
+Nome: kira
+Sexo: Masculino
+Raça: Orc
+Classe: Druida
+ATRIBUTOS:
+Força: 5
+Inteligência: 0
+Carisma: 13
+Constituição: 10
+Sabedoria: 17
+Destreza: 10
+
+FICHA RPG TKINTER
+Nome: leloy
+Sexo: Masculino
+Raça: Elfo
+Classe: Ladino
+ATRIBUTOS:
+Força: 14
+Inteligência: 9
+Carisma: 11
+Constituição: 0
+Sabedoria: 0
+Destreza: 2
+
+FICHA RPG TKINTER
+Nome: zero
+Sexo: Masculino
+Raça: Anão
+Classe: Guerreiro
+ATRIBUTOS:
+Força: 11
+Inteligência: 18
+Carisma: 19
+Constituição: 9
+Sabedoria: 5
+Destreza: 19
+
+FICHA RPG TKINTER
+Nome: zero
+Sexo: Masculino
+Raça: Anão
+Classe: Guerreiro
+ATRIBUTOS:
+Força: 11
+Inteligência: 18
+Carisma: 19
+Constituição: 9
+Sabedoria: 5
+Destreza: 19
+
+FICHA RPG TKINTER
+Nome: asdfdasf
+Sexo: Masculino
+Raça: Orc
+Classe: Ladino
+ATRIBUTOS:
+Força: 10
+Inteligência: 18
+Carisma: 6
+Constituição: 2
+Sabedoria: 3
+Destreza: 5
+
+FICHA RPG TKINTER
+Nome: zero
+Sexo: Masculino
+Raça: Anão
+Classe: Guerreiro
+ATRIBUTOS:
+Força: 11
+Inteligência: 18
+Carisma: 19
+Constituição: 9
+Sabedoria: 5
+Destreza: 19
+
+FICHA RPG TKINTER
+Nome: ley
+Sexo: Masculino
+Raça: Elfo
+Classe: Guerreiro
+ATRIBUTOS:
+Força: 7
+Inteligência: 14
+Carisma: 13
+Constituição: 8
+Sabedoria: 20
+Destreza: 4
+
+FICHA RPG TKINTER
+Nome: azaghal
+Sexo: Masculino
+Raça: Anão
+Classe: Ladino
+ATRIBUTOS:
+Força: 12
+Inteligência: 3
+Carisma: 20
+Constituição: 18
+Sabedoria: 3
+Destreza: 20
+
+FICHA RPG TKINTER
+Nome: eester
+Sexo: Feminino
+Raça: Elfo
+Classe: Ladino
+ATRIBUTOS:
+Força: 16
+Inteligência: 5
+Carisma: 9
+Constituição: 19
+Sabedoria: 13
+Destreza: 5
+
+FICHA RPG TKINTER
+Nome: azeroth
+Sexo: Feminino
+Raça: Elfo
+Classe: Druida
+ATRIBUTOS:
+Força: 4
+Inteligência: 15
+Carisma: 6
+Constituição: 8
+Sabedoria: 14
+Destreza: 18
+
+FICHA RPG TKINTER
+Nome: lepri
+Sexo: Masculino
+Raça: Anão
+Classe: Ladino
+ATRIBUTOS:
+Força: 20
+Inteligência: 2
+Carisma: 9
+Constituição: 14
+Sabedoria: 8
+Destreza: 1
+
+FICHA RPG TKINTER
+Nome: asd
+Sexo: Masculino
+Raça: Elfo
+Classe: Ladino
+ATRIBUTOS:
+Força: 17
+Inteligência: 5
+Carisma: 0
+Constituição: 6
+Sabedoria: 4
+Destreza: 8
+
+FICHA RPG TKINTER
+Nome: nero
+Sexo: Masculino
+Raça: Orc
+Classe: Ladino
+ATRIBUTOS:
+Força: 6
+Inteligência: 4
+Carisma: 14
+Constituição: 4
+Sabedoria: 8
+Destreza: 3
+
+FICHA RPG TKINTER
+Nome: min
+Sexo: Masculino
+Raça: Anão
+Classe: Guerreiro
+ATRIBUTOS:
+Força: 7
+Inteligência: 0
+Carisma: 11
+Constituição: 20
+Sabedoria: 15
+Destreza: 9
+
+FICHA RPG TKINTER
+Nome: min
+Sexo: Masculino
+Raça: Anão
+Classe: Ladino
+ATRIBUTOS:
+Força: 7
+Inteligência: 0
+Carisma: 11
+Constituição: 20
+Sabedoria: 15
+Destreza: 9
+
+FICHA RPG TKINTER
+Nome: min
+Sexo: Masculino
+Raça: Orc
+Classe: Ladino
+ATRIBUTOS:
+Força: 7
+Inteligência: 0
+Carisma: 11
+Constituição: 20
+Sabedoria: 15
+Destreza: 9
+
+FICHA RPG TKINTER
+Nome: min
+Sexo: Masculino
+Raça: Orc
+Classe: Ladino
+ATRIBUTOS:
+Força: 7
+Inteligência: 11
+Carisma: 0
+Constituição: 20
+Sabedoria: 15
+Destreza: 9
+
+FICHA RPG TKINTER
+Nome: min
+Sexo: Masculino
+Raça: Orc
+Classe: Ladino
+ATRIBUTOS:
+Força: 7
+Inteligência: 11
+Carisma: 0
+Constituição: 20
+Sabedoria: 15
+Destreza: 9
+
+FICHA RPG TKINTER
+Nome: min
+Sexo: Masculino
+Raça: Orc
+Classe: Ladino
+ATRIBUTOS:
+Força: 7
+Inteligência: 11
+Carisma: 0
+Constituição: 20
+Sabedoria: 15
+Destreza: 9
+
+FICHA RPG TKINTER
+Nome: mine
+Sexo: Masculino
+Raça: Orc
+Classe: Ladino
+ATRIBUTOS:
+Força: 7
+Inteligência: 11
+Carisma: 0
+Constituição: 20
+Sabedoria: 15
+Destreza: 9
+
+FICHA RPG TKINTER
+Nome: ele
+Sexo: Masculino
+Raça: Elfo
+Classe: Ladino
+ATRIBUTOS:
+Força: 18
+Inteligência: 4
+Carisma: 10
+Constituição: 13
+Sabedoria: 20
+Destreza: 14
+
+FICHA RPG TKINTER
+Nome: asd
+Sexo: Masculino
+Raça: Anão
+Classe: Guerreiro
+ATRIBUTOS:
+Força: 19
+Inteligência: 4
+Carisma: 11
+Constituição: 17
+Sabedoria: 12
+Destreza: 20
+
+FICHA RPG TKINTER
+Nome: asdd
+Sexo: Masculino
+Raça: Anão
+Classe: Ladino
+ATRIBUTOS:
+Força: 11
+Inteligência: 0
+Carisma: 17
+Constituição: 2
+Sabedoria: 6
+Destreza: 1
+
+FICHA RPG TKINTER
+Nome: nes
+Sexo: Masculino
+Raça: Elfo
+Classe: Ladino
+ATRIBUTOS:
+Força: 17
+Inteligência: 5
+Carisma: 3
+Constituição: 4
+Sabedoria: 0
+Destreza: 9
+
+FICHA RPG TKINTER
+Nome: asda
+Sexo: Masculino
+Raça: Elfo
+Classe: Guerreiro
+ATRIBUTOS:
+Força: 17
+Inteligência: 18
+Carisma: 7
+Constituição: 13
+Sabedoria: 15
+Destreza: 5
+
+FICHA RPG TKINTER
+Nome: çlçel
+Sexo: Masculino
+Raça: Elfo
+Classe: Guerreiro
+ATRIBUTOS:
+Força: 3
+Inteligência: 5
+Carisma: 18
+Constituição: 5
+Sabedoria: 15
+Destreza: 6
+
+FICHA RPG TKINTER
+Nome: net
+Sexo: Masculino
+Raça: Elfo
+Classe: Ladino
+ATRIBUTOS:
+Força: 17
+Inteligência: 6
+Carisma: 20
+Constituição: 19
+Sabedoria: 3
+Destreza: 3
+
+FICHA RPG TKINTER
+Nome: nnneto
+Sexo: Masculino
+Raça: Elfo
+Classe: Ladino
+ATRIBUTOS:
+Força: 16
+Inteligência: 13
+Carisma: 1
+Constituição: 9
+Sabedoria: 19
+Destreza: 13
+
+FICHA RPG TKINTER
+Nome: nest
+Sexo: Masculino
+Raça: Anão
+Classe: Mago
+ATRIBUTOS:
+Força: 4
+Inteligência: 18
+Carisma: 16
+Constituição: 0
+Sabedoria: 15
+Destreza: 7
+
+FICHA RPG TKINTER
+Nome: riy
+Sexo: Masculino
+Raça: Elfo
+Classe: Guerreiro
+ATRIBUTOS:
+Força: 1
+Inteligência: 15
+Carisma: 14
+Constituição: 3
+Sabedoria: 14
+Destreza: 13
+
+FICHA RPG TKINTER
+Nome: leu
+Sexo: Masculino
+Raça: Anão
+Classe: Mago
+ATRIBUTOS:
+Força: 0
+Inteligência: 6
+Carisma: 1
+Constituição: 14
+Sabedoria: 16
+Destreza: 1
+
+FICHA RPG TKINTER
+Nome: leu
+Sexo: Masculino
+Raça: Anão
+Classe: Mago
+ATRIBUTOS:
+Força: 0
+Inteligência: 6
+Carisma: 1
+Constituição: 14
+Sabedoria: 16
+Destreza: 1
+
+FICHA RPG TKINTER
+Nome: Jeff
+Sexo: Masculino
+Raça: Anão
+Classe: Mago
+ATRIBUTOS:
+Força: 13
+Inteligência: 0
+Carisma: 20
+Constituição: 6
+Sabedoria: 9
+Destreza: 4
+
+FICHA RPG TKINTER
+Nome: Louis
+Sexo: Feminino
+Raça: Elfo
+Classe: Guerreiro
+ATRIBUTOS:
+Força: 13
+Inteligência: 0
+Carisma: 20
+Constituição: 6
+Sabedoria: 9
+Destreza: 4
+
